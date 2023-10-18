@@ -1,0 +1,28 @@
+{
+  "name": "introduccion-a-nodejs",
+  "version": "1.0.0",
+  "description": "Proyecto prueba de intruccion a Nodejs",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tu-usuario/Introduccion-a-NodeJS.git"
+  },
+  "keywords": [
+    "NodeJs",
+    "Javascript",
+    "ADSO"
+  ],
+  "author": "FIcha 2613934. Análisis y Desarrollo De Software",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tu-usuario/Introduccion-a-NodeJS/issues"
+  },
+  "homepage": "https://github.com/tu-usuario/Introduccion-a-NodeJS#readme",
+  "dependencies": {
+    "http": "^0.0.1-security",
+    "mysql": "^2.18.1"
+  }
+}
